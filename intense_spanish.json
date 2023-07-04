@@ -1,0 +1,19 @@
+{"intents": [
+    {
+       "tag":"saludos",
+       "patterns":["hola","buenas","buenos dias","que tal?","¿que tal?","klk","hi","hello"],
+        "responses":["!hola¡","!hola humano¡","buenas, ¿en qué puedo ayudarte?","hola, ¿en qué puedo ayudarte?", "¿en qué puedo ser útil?"] 
+
+    },
+    {
+        "tag":"nombre",
+        "patterns":["¿cómo te llamas?","¿cuál es tu nombre?","¿cómo puedo llamarte?","te llamas Robot?"],
+        "responses":["me llamo FINANCIALYTICS-BOT, tu bot de apoyo en Financialitica", "Llámame FINANCIALYTICS-BOT,soy bot de apoyo en Financialitica","soy tu bot de apoyo en Financialitica,FINANCIALYTICS-BOT"]
+    },
+    {
+        "tag":"edad",
+        "patterns":["¿qué edad tienes?","¿que edad tienes?","¿cuál es tu edad?","edad?","los bots tienen edad?"],
+        "responses":["mi creador tiene 34 años, yo tengo menos de 1","soy joven en edad humana, pero aprendo más rápido,tengo menos de 1 año"]
+    }
+]
+}

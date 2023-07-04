@@ -1,0 +1,1 @@
+[{"model": "pagina.website_menu", "pk": 1, "fields": {"menu_item": "Menu_Producto"}}, {"model": "pagina.website_menu", "pk": 2, "fields": {"menu_item": "Menu_Contacto"}}, {"model": "pagina.website_menu", "pk": 3, "fields": {"menu_item": "Menu_Capacitaciones"}}, {"model": "pagina.website_menu", "pk": 4, "fields": {"menu_item": "Menu_Outsourcing"}}]
